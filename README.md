@@ -1,1 +1,1 @@
-hello thds is my firs github tutorial
+hello this is my first github tutorial
